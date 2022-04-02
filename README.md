@@ -2,7 +2,7 @@
 
 A curated list of awesome tools for testing and monitoring data quality (typicallhy in data warehouse/lake).
 
-_If you want to contribute to this list (please do), send me a pull request or contact me._
+_If you want to contribute to this list (please do), send me a pull request or [contact me](https://mobile.twitter.com/orikabeli)._
 
 
 
@@ -24,15 +24,15 @@ _If you want to contribute to this list (please do), send me a pull request or c
 
 
 ##### geared for ML
-* [deepchecks]()
+* [deepchecks](https://github.com/deepchecks/deepchecks) - tool for validating your machine learning models and data. Statistical tests tailored towards ML models data as well as monitoring models in production.
+* [evidently](https://github.com/evidentlyai/evidently) - analyze and track data and ML model quality.
 
 
 ##### Data quality battaries included
 * (dbt)[https://docs.getdbt.com/docs/building-a-dbt-project/tests], (dataform)[https://dataform.co/blog/data-assertions] - ELT tools that comes with a handy utility to define tests as SQL queries.
 
 
-
-###### More 
+##### More 
 * [griffin](https://github.com/apache/griffin) - Data Quality solution for distributed data systems at any scale in both streaming and batch data context. 
 * [drunken-data-quality](https://github.com/FRosner/drunken-data-quality) - 
 * [DataQuality for BigData](https://github.com/agile-lab-dev/DataQuality) -
@@ -40,3 +40,21 @@ _If you want to contribute to this list (please do), send me a pull request or c
 * [Phasor Data Quality Tracker](https://github.com/GridProtectionAlliance/pdqtracker) )
 * [DataCleaner](https://github.com/datacleaner/DataCleaner) - 
 * [data-quality](https://github.com/Talend/data-quality) 
+
+
+#### Paid
+Offering ranges from data to pipelines testing, with focus on real-time monitoring, automation of tests and thesholds, and addditional enterprise features.
+* [Bigeye](www.bigeye.com)
+* [Soda](www.soda.io)
+* [Databand](databand.ai)
+* [Monte Carlo](www.montecarlodata.com)
+* [great expectations](greatexpectations.io)
+* [Sifflet](www.siffletapp.com)
+* [Validio](www.validio.io)
+* [Lightup](www.lightup.ai)
+* [Lantern](www.lantern.so)
+* [Metaplane](metaplane.dev)
+* [Datafold](www.datafold.com)
+* [Acceldata](www.acceldata.io)
+* [Anomalo](www.anomalo.com)
+* [Marquez](marquezproject.github.io)
