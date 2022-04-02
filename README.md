@@ -18,6 +18,7 @@ TBD
 * [ydata-quality](https://github.com/ydataai/ydata-quality) - python library for assessing data quality throughout stages of the data pipeline development.
 * [great-expectations](https://github.com/great-expectations/great_expectations) - tool for data testing, documentation, and profiling.
 * [deepqu](https://github.com/awslabs/python-deequ) - libray by Amazon for defining unit tests for data with focus on large datasets. Based on Apache Spark.
+* [soda](https://github.com/sodadata/soda-core) - enables data testing through extended SQL queries.
 
 ##### geared for ML
 * [deepchecks](https://github.com/deepchecks/deepchecks) - tool for validating your machine learning models and data. Implemented test suites tailored towards ML models datasets and outputs.
