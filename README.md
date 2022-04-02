@@ -39,7 +39,7 @@ TBD
 
 #### Paid
 Offering ranges from data to pipelines testing, with focus on real-time monitoring, automation of tests creation & threshold setting, and addditional enterprise features.
-* [Bigeye](www.bigeye.com)
+* [Bigeye](https://bigeye.com)
 * [Soda](www.soda.io)
 * [Databand](databand.ai)
 * [Monte Carlo](www.montecarlodata.com)
