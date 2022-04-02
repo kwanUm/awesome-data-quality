@@ -28,8 +28,8 @@ _If you want to contribute to this list (please do), send me a pull request or [
 * [evidently](https://github.com/evidentlyai/evidently) - analyze and track data and ML model quality.
 
 
-##### Data quality battaries included
-* (dbt)[https://docs.getdbt.com/docs/building-a-dbt-project/tests], (dataform)[https://dataform.co/blog/data-assertions] - ELT tools that comes with a handy utility to define tests as SQL queries.
+##### Pipelines with data quality included
+* [dbt](https://docs.getdbt.com/docs/building-a-dbt-project/tests), [dataform](https://dataform.co/blog/data-assertions) - ELT tools that comes with a handy utility to define tests as SQL queries.
 
 
 ##### More 
