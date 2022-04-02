@@ -29,7 +29,7 @@ TBD
 * [DataCleaner](https://github.com/datacleaner/DataCleaner)
 * [data-quality](https://github.com/Talend/data-quality) 
 
-##### geared for ML
+##### Geared for ML
 * [deepchecks](https://github.com/deepchecks/deepchecks) - tool for validating your machine learning models and data. Implemented test suites tailored towards ML models datasets and outputs.
 * [evidently](https://github.com/evidentlyai/evidently) - analyze and track data and ML model output quality.
 
