@@ -19,15 +19,6 @@ TBD
 * [great-expectations](https://github.com/great-expectations/great_expectations) - tool for data testing, documentation, and profiling.
 * [deepqu](https://github.com/awslabs/python-deequ) - libray by Amazon for defining unit tests for data with focus on large datasets. Based on Apache Spark.
 * [soda](https://github.com/sodadata/soda-core) - enables data testing through extended SQL queries.
-
-##### geared for ML
-* [deepchecks](https://github.com/deepchecks/deepchecks) - tool for validating your machine learning models and data. Implemented test suites tailored towards ML models datasets and outputs.
-* [evidently](https://github.com/evidentlyai/evidently) - analyze and track data and ML model output quality.
-
-##### Pipelines with data quality included
-* [dbt](https://docs.getdbt.com/docs/building-a-dbt-project/tests), [dataform](https://dataform.co/blog/data-assertions) - ELT tools that comes with a handy utility to define tests as SQL queries.
-
-##### More Open Sourced
 * [dqm](https://github.com/piotr-kalanski/data-quality-monitoring) - another data quality monitoring tool implemented using Spark.
 * [owl-sanitizer](https://github.com/ronald-smith-angel/owl-data-sanitizer) - yet another Spark based lightweight data validation framework.
 * [griffin](https://github.com/apache/griffin) - Data Quality solution for distributed data systems at any scale in both streaming and batch data context. 
@@ -37,6 +28,14 @@ TBD
 * [Phasor Data Quality Tracker](https://github.com/GridProtectionAlliance/pdqtracker)
 * [DataCleaner](https://github.com/datacleaner/DataCleaner)
 * [data-quality](https://github.com/Talend/data-quality) 
+
+##### geared for ML
+* [deepchecks](https://github.com/deepchecks/deepchecks) - tool for validating your machine learning models and data. Implemented test suites tailored towards ML models datasets and outputs.
+* [evidently](https://github.com/evidentlyai/evidently) - analyze and track data and ML model output quality.
+
+##### Pipelines with data quality included
+* [dbt](https://docs.getdbt.com/docs/building-a-dbt-project/tests), [dataform](https://dataform.co/blog/data-assertions) - ELT tools that comes with a handy utility to define tests as SQL queries.
+
 
 #### Paid
 Offering ranges from data to pipelines testing, with focus on real-time monitoring, automation of tests creation & threshold setting, and addditional enterprise features.
