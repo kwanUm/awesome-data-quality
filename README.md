@@ -37,9 +37,8 @@ TBD
 * [DataCleaner](https://github.com/datacleaner/DataCleaner)
 * [data-quality](https://github.com/Talend/data-quality) 
 
-
 #### Paid
-Offering ranges from data to pipelines testing, with focus on real-time monitoring, automation of tests and thesholds, and addditional enterprise features.
+Offering ranges from data to pipelines testing, with focus on real-time monitoring, automation of tests creation & threshold setting, and addditional enterprise features.
 * [Bigeye](www.bigeye.com)
 * [Soda](www.soda.io)
 * [Databand](databand.ai)
