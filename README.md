@@ -27,7 +27,8 @@ TBD
 * [TopNotch](https://github.com/blackrock/TopNotch)
 * [Phasor Data Quality Tracker](https://github.com/GridProtectionAlliance/pdqtracker)
 * [DataCleaner](https://github.com/datacleaner/DataCleaner)
-* [data-quality](https://github.com/Talend/data-quality) 
+* [data-quality](https://github.com/Talend/data-quality)
+* [daffy](https://github.com/vertti/daffy/) - Decorator-first DataFrame contracts/validation (columns/dtypes/constraints) at function boundaries. Supports Pandas/Polars/PyArrow/Modin.
 
 ##### Geared for ML
 * [deepchecks](https://github.com/deepchecks/deepchecks) - tool for validating your machine learning models and data. Implemented test suites tailored towards ML models datasets and outputs.
