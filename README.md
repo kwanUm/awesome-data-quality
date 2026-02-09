@@ -34,6 +34,7 @@ TBD
 * [evidently](https://github.com/evidentlyai/evidently) - analyze and track data and ML model output quality.
 
 ##### Pipelines with data quality included
+* [Bruin](https://github.com/bruin-data/bruin) - End-to-end data pipeline tool with built-in data quality checks. Define assertions in SQL or Python, run them as part of your pipeline.
 * [dbt](https://docs.getdbt.com/docs/building-a-dbt-project/tests), [dataform](https://dataform.co/blog/data-assertions) - ELT tools that comes with a handy utility to define tests as SQL queries.
 
 
