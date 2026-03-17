@@ -27,7 +27,8 @@ TBD
 * [TopNotch](https://github.com/blackrock/TopNotch)
 * [Phasor Data Quality Tracker](https://github.com/GridProtectionAlliance/pdqtracker)
 * [DataCleaner](https://github.com/datacleaner/DataCleaner)
-* [data-quality](https://github.com/Talend/data-quality) 
+* [data-quality](https://github.com/Talend/data-quality)
+* [provero](https://github.com/provero-org/provero) - A vendor-neutral, declarative data quality engine. Define checks in YAML and run anywhere with DuckDB, PostgreSQL, or DataFrame connectors.
 
 ##### Geared for ML
 * [deepchecks](https://github.com/deepchecks/deepchecks) - tool for validating your machine learning models and data. Implemented test suites tailored towards ML models datasets and outputs.
