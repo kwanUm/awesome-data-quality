@@ -53,6 +53,7 @@ Offering ranges from data to pipelines testing, with focus on real-time monitori
 * [Acceldata](https://acceldata.io)
 * [Anomalo](https://anomalo.com)
 * [Marquez](https://marquezproject.github.io)
+* [DataScreenIQ](https://datascreeniq.com)
 
 
 
