@@ -28,6 +28,7 @@ TBD
 * [Phasor Data Quality Tracker](https://github.com/GridProtectionAlliance/pdqtracker)
 * [DataCleaner](https://github.com/datacleaner/DataCleaner)
 * [data-quality](https://github.com/Talend/data-quality) 
+* [Zingg](https://github.com/zinggAI/zingg) (Java, Spark) - Scalable, active learning model for end-to-end entity resolution and Master Data Management. Native to Databricks, Microsoft Fabric, Snowflake, AWS, and GCP.
 
 ##### Geared for ML
 * [deepchecks](https://github.com/deepchecks/deepchecks) - tool for validating your machine learning models and data. Implemented test suites tailored towards ML models datasets and outputs.
@@ -53,6 +54,8 @@ Offering ranges from data to pipelines testing, with focus on real-time monitori
 * [Acceldata](https://acceldata.io)
 * [Anomalo](https://anomalo.com)
 * [Marquez](https://marquezproject.github.io)
+* [Zingg](https://github.com/zinggAI/zingg) (Java, Spark)
+
 
 
 
