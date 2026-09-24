@@ -19,6 +19,7 @@ TBD
 * [great-expectations](https://github.com/great-expectations/great_expectations) - tool for data testing, documentation, and profiling.
 * [deepqu](https://github.com/awslabs/python-deequ) - libray by Amazon for defining unit tests for data with focus on large datasets. Based on Apache Spark.
 * [soda](https://github.com/sodadata/soda-core) - enables data testing through extended SQL queries.
+* [data-contract-validator](https://github.com/OGsiji/data-contract-validator) - fails the pull request when a dbt model stops producing what a downstream consumer expects; compares dbt models (any adapter - Snowflake, BigQuery, Redshift, Postgres) against reverse-ETL destinations such as HubSpot CRM and against FastAPI/Pydantic services.
 * [dqm](https://github.com/piotr-kalanski/data-quality-monitoring) - another data quality monitoring tool implemented using Spark.
 * [owl-sanitizer](https://github.com/ronald-smith-angel/owl-data-sanitizer) - yet another Spark based lightweight data validation framework.
 * [griffin](https://github.com/apache/griffin) - Data Quality solution for distributed data systems at any scale in both streaming and batch data context. 
