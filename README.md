@@ -54,6 +54,7 @@ Offering ranges from data to pipelines testing, with focus on real-time monitori
 * [Acceldata](https://acceldata.io)
 * [Anomalo](https://anomalo.com)
 * [Marquez](https://marquezproject.github.io)
+* [ExportCheck CLI](https://inu-gumi.pro/exportcheck/site/) - Offline CSV migration acceptance checks with keyed row matching, decimal tolerances, and HTML, CSV and JSON reports (paid; Python 3.11+).
 
 
 
