@@ -29,6 +29,7 @@ TBD
 * [DataCleaner](https://github.com/datacleaner/DataCleaner)
 * [data-quality](https://github.com/Talend/data-quality) 
 * [csv-quality-gate](https://github.com/hermes-labs-ai/csv-quality-gate) - command-line CSV preflight validation tool: checks missing columns, empty files, empty cells, and duplicate rows, returning pass/warn/fail with matching exit codes before a pipeline ingests broken input. Stdlib-only, CI-ready.
+* [CsvPath Framework]((https://www.csvpath.org) - Open-source Edge Data Governance data firewall protecting downstream systems from bad data at the ingress point.
 
 ##### Geared for ML
 * [deepchecks](https://github.com/deepchecks/deepchecks) - tool for validating your machine learning models and data. Implemented test suites tailored towards ML models datasets and outputs.
