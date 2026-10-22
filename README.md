@@ -29,6 +29,7 @@ TBD
 * [DataCleaner](https://github.com/datacleaner/DataCleaner)
 * [data-quality](https://github.com/Talend/data-quality) 
 * [csv-quality-gate](https://github.com/hermes-labs-ai/csv-quality-gate) - command-line CSV preflight validation tool: checks missing columns, empty files, empty cells, and duplicate rows, returning pass/warn/fail with matching exit codes before a pipeline ingests broken input. Stdlib-only, CI-ready.
+* [DataOps TestGen](https://github.com/DataKitchen/dataops-testgen) - profiles tables, generates data quality tests from the profiling results, and runs them on a schedule with freshness, volume, and schema monitoring. Web UI, REST API, and MCP server; 14 databases plus CSV, Parquet, and JSON files.
 
 ##### Geared for ML
 * [deepchecks](https://github.com/deepchecks/deepchecks) - tool for validating your machine learning models and data. Implemented test suites tailored towards ML models datasets and outputs.
