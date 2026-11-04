@@ -53,6 +53,7 @@ Offering ranges from data to pipelines testing, with focus on real-time monitori
 * [Datafold](https://datafold.com)
 * [Acceldata](https://acceldata.io)
 * [Anomalo](https://anomalo.com)
+* [FastDiff 3](https://github.com/cxclrfx/FastDiff-3) - Proprietary offline data comparison for Windows x64, with bounded RAM and retained evidence for replay; private distribution by enquiry.
 * [Marquez](https://marquezproject.github.io)
 * [arcodash](https://www.arcodash.com)
 
