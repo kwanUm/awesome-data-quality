@@ -55,6 +55,7 @@ Offering ranges from data to pipelines testing, with focus on real-time monitori
 * [Anomalo](https://anomalo.com)
 * [Marquez](https://marquezproject.github.io)
 * [arcodash](https://www.arcodash.com)
+* [digna](https://www.digna.ai)
 
 
 
