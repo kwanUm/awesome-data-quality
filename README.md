@@ -33,6 +33,7 @@ TBD
 ##### Geared for ML
 * [deepchecks](https://github.com/deepchecks/deepchecks) - tool for validating your machine learning models and data. Implemented test suites tailored towards ML models datasets and outputs.
 * [evidently](https://github.com/evidentlyai/evidently) - analyze and track data and ML model output quality.
+* [leCop](https://github.com/michele-xilo/leCop) - fast health checker for LeRobot robot-learning datasets: finds broken episodes, timestamp drift, wrong stats and video/metadata mismatches without decoding video. Single binary, CI-ready.
 
 ##### Pipelines with data quality included
 * [dbt](https://docs.getdbt.com/docs/building-a-dbt-project/tests), [dataform](https://dataform.co/blog/data-assertions) - ELT tools that comes with a handy utility to define tests as SQL queries.
