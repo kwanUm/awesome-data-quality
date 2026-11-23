@@ -56,6 +56,7 @@ Offering ranges from data to pipelines testing, with focus on real-time monitori
 * [Marquez](https://marquezproject.github.io)
 * [arcodash](https://www.arcodash.com)
 * [digna](https://www.digna.ai)
+* [Mailbox Evidence Checker](https://github.com/robbzzilla/mailbox-evidence-checker-demo) - Offline Python CLI for checking folder counts, skipped items, and alias destinations in redacted Google Workspace-to-Microsoft 365 migration exports. $39 once for internal use by one organization, with a public fictional sample.
 
 
 
