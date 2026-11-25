@@ -56,6 +56,7 @@ Offering ranges from data to pipelines testing, with focus on real-time monitori
 * [Marquez](https://marquezproject.github.io)
 * [arcodash](https://www.arcodash.com)
 * [digna](https://www.digna.ai)
+* [DataCheck (datacheck.cc)](https://datacheck.cc/en) - Rule-driven (non-AI) tabular verification across 56 versioned rules for research spreadsheets and Source Data tables (XLSX, CSV, TSV), detecting cross-sheet duplicates, shifted sequences, fixed multiples/differences, and decimal-tail anomalies with source-cell evidence; accompanied by an [MIT pre-submission checklist](https://github.com/datacheck-cc/datacheck-research-data-checklist).
 
 
 
