@@ -56,6 +56,7 @@ Offering ranges from data to pipelines testing, with focus on real-time monitori
 * [Marquez](https://marquezproject.github.io)
 * [arcodash](https://www.arcodash.com)
 * [digna](https://www.digna.ai)
+* [Autelica Capture QA API](https://app.autelica.com/check/docs/api) - per-second usable/unusable checks for multi-camera video captured for robot learning (sync, blur, exposure, camera motion), with a reason code for each rejected second.
 
 
 
